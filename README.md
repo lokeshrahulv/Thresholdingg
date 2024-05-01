@@ -80,7 +80,7 @@ for i in range(0,9):
 
 ### Global Thresholding
 ![Screenshot 2024-05-01 183240](https://github.com/lokeshrahulv/Thresholdingg/assets/118423842/74c9a5c8-2a09-4370-8166-d48db5650531)
-![Screenshot 2024-05-01 183303](https://github.com/lokeshrahulv/Thresholdingg/assets/118423842/64beedac-6643-4eaa-8de4-3ad6df03bc8c)
+![image](https://github.com/lokeshrahulv/Thresholdingg/assets/118423842/086a257b-ea0c-4dd6-9754-f3335e27fbb4)
 
 ### Adaptive Thresholding
 ![image](https://github.com/lokeshrahulv/Thresholdingg/assets/118423842/6aa8780c-2d6e-404b-81c0-ea18eca81315)

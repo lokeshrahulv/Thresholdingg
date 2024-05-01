@@ -23,8 +23,10 @@ Use Adaptive thresholding to segment the image.
 Use Otsu's method to segment the image and display the results.
 
 ## Program
-### Developed By : LOKESH RAHUL V V
-### Register Number : 212222100024
+```
+ Developed By : LOKESH RAHUL V V
+ Register Number : 212222100024
+```
 
 ### Load the necessary packages
 ```python
